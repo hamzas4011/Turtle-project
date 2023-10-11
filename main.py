@@ -1,6 +1,6 @@
 
 
-#Importing turtle libary and creating objects and making a circle
+#Importing turtle libary, creating objects and making a circle
 
 from turtle import Turtle, Screen
 
